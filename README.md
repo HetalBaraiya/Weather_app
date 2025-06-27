@@ -41,11 +41,13 @@ cd weather-app
 
 ### 2. Get an API Key
 Visit OpenWeatherMap
-
 Sign up and generate a free API key
 
 Open index.html and replace the following line:
 const apiKey = "YOUR_API_KEY_HERE";
+
+### ⚠️ Note: For privacy reasons, the API key used during development has been removed.
+To run this app correctly, obtain your own API key and insert it as shown above.
 
 ### 3. Run the App
 Open index.html in any modern web browser.
